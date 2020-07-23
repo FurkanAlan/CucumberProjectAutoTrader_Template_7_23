@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CucumberProjectAutoTrader_Template_7_23" />
         <module name="CucumberProjectAutoTrader_EmptyTemplate" />
       </profile>
     </annotationProcessing>
